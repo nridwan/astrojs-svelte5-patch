@@ -2,7 +2,33 @@
 
 This **[Astro integration][astro-integration]** enables server-side rendering and client-side hydration for your [Svelte](https://svelte.dev/) components. It supports Svelte 3, 4, and 5 (experimental).
 
+## Installation
+
+Use your favorite package manager to install from this repository
+
+Bun:
+```
+bun add git+https://github.com/nridwan/astrojs-svelte5-patch.git#tags/v5.4.0
+```
+
+Pnpm:
+```
+pnpm add git+https://github.com/nridwan/astrojs-svelte5-patch.git#tags/v5.4.0
+```
+
+Yarn:
+```
+yarn add git+https://github.com/nridwan/astrojs-svelte5-patch.git#tags/v5.4.0
+```
+
+Npm:
+```
+npm i git+https://github.com/nridwan/astrojs-svelte5-patch.git#tags/v5.4.0
+```
+
 ## Documentation
+
+> :warning: **This is a forked version**: For the setup, refer to the documentation below, but the installation step follow [Installation](#installation) section
 
 Read the [`@astrojs/svelte` docs][docs]
 
